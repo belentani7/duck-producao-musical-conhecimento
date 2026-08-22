@@ -11,6 +11,8 @@ Este repositorio privado conserva el material visible y generado de la conversac
 | [`ARCHIVE_MANIFEST.md`](ARCHIVE_MANIFEST.md) | Alcance, versiones, exclusiones y limitaciones. |
 | [`history/`](history/) | Historial Git y parches de versiones exportables. |
 | [`source_uploads/`](source_uploads/) | Adjuntos originales disponibles en el entorno. |
+| [`generated_assets/`](generated_assets/) | Assets visuales generados para la web. |
+| [`evidence/screenshots/`](evidence/screenshots/) | Capturas de verificación visual. |
 | [`SHA256SUMS.txt`](SHA256SUMS.txt) | Huellas SHA-256 para verificar integridad. |
 
 Este archivo es privado por diseño. No contiene secretos, credenciales, cookies, dependencias instaladas, builds temporales, logs del entorno ni instrucciones internas del sistema.

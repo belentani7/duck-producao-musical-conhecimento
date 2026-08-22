@@ -10,6 +10,8 @@ Este paquete conserva el material del proyecto Duck Produção Musical generado,
 |---|---|
 | `project/` | Copia portable del proyecto sin dependencias instaladas, builds temporales, logs de desarrollo ni configuración privada del entorno. |
 | `source_uploads/` | Adjuntos originales disponibles: `duckweb.zip` y `pasted_content.txt`. |
+| `generated_assets/` | Cinco assets visuales generados para hero, logo, consola, ondas y estudio. |
+| `evidence/screenshots/` | Capturas de verificación visual generadas durante el desarrollo. |
 | `history/git-log.txt` | Historial de commits disponible en el repositorio local al crear el archivo. |
 | `history/patches/` | Parches reproducibles exportados desde los commits del proyecto. |
 | `CHAT_TRANSCRIPT_VISIBLE.md` | Transcripción visible y contextual del chat, sin contenido interno o credenciales. |
