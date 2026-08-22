@@ -13,7 +13,7 @@ Este paquete conserva el material del proyecto Duck Produção Musical generado,
 | `history/git-log.txt` | Historial de commits disponible en el repositorio local al crear el archivo. |
 | `history/patches/` | Parches reproducibles exportados desde los commits del proyecto. |
 | `CHAT_TRANSCRIPT_VISIBLE.md` | Transcripción visible y contextual del chat, sin contenido interno o credenciales. |
-| `SHA256SUMS.txt` | Hash SHA-256 de cada archivo del paquete, generado antes de añadir el manifiesto y la transcripción. |
+| `SHA256SUMS.txt` | Huellas SHA-256 de todos los archivos del paquete excepto el propio archivo de hashes. |
 
 ## Versiones del proyecto
 
